@@ -1,1 +1,1 @@
-# msd-bma-academic-eval
+# msd-academic-eval
